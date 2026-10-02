@@ -58,4 +58,4 @@ QQ ──(NapCat)──> OneBot v11 ──> 本地桥 (Node.js)
 
 ## 笔记
 
-- [她是怎么跑起来的（工程笔记）](docs/设计笔记.md)
+- [她是怎么跑起来的（工程笔记）](docs/notes.md)
